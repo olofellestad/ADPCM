@@ -1,3 +1,5 @@
 *.wav
+*.swv
 .DS_Store
+main.c
 ima
